@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Impact Bootstrap Template - Index</title>
+  <title>Gumelem Wetan</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -37,7 +37,7 @@
 </head>
 
 <body>
-
+ 
   <!-- ======= Header ======= -->
   <section id="topbar" class="topbar d-flex align-items-center">
     <div class="container d-flex justify-content-center justify-content-md-between">
@@ -60,34 +60,21 @@
       <a href="index.html" class="logo d-flex align-items-center">
         <!-- Uncomment the line below if you also wish to use an image logo -->
         <!-- <img src="assets/img/logo.png" alt=""> -->
-        <h1>Impact<span>.</span></h1>
+        <h1>Gumelem Wetan<span>.</span></h1>
+        
+
       </a>
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a href="#hero">Home</a></li>
-          <li><a href="#about">About</a></li>
-          <li><a href="#services">Services</a></li>
-          <li><a href="#portfolio">Portfolio</a></li>
-          <li><a href="#team">Team</a></li>
-          <li><a href="blog.html">Blog</a></li>
-          <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
-            <ul>
-              <li><a href="#">Drop Down 1</a></li>
-              <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
-                <ul>
-                  <li><a href="#">Deep Drop Down 1</a></li>
-                  <li><a href="#">Deep Drop Down 2</a></li>
-                  <li><a href="#">Deep Drop Down 3</a></li>
-                  <li><a href="#">Deep Drop Down 4</a></li>
-                  <li><a href="#">Deep Drop Down 5</a></li>
-                </ul>
-              </li>
-              <li><a href="#">Drop Down 2</a></li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 4</a></li>
-            </ul>
-          </li>
-          <li><a href="#contact">Contact</a></li>
+          <li><a href="#">Beranda</a></li>
+          <li><a href="#">Profil</a></li>
+          <li><a href="#">Lembaga</a></li>
+          <li><a href="#">Data Penduduk</a></li>
+          <li><a href="#">Informasi Publik</a></li>
+          <li><a href="#">Kontak</a></li>
+         
+         
+          
         </ul>
       </nav><!-- .navbar -->
 
@@ -103,15 +90,15 @@
     <div class="container position-relative">
       <div class="row gy-5" data-aos="fade-in">
         <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center text-center text-lg-start">
-          <h2>Welcome to <span>Impact</span></h2>
-          <p>Sed autem laudantium dolores. Voluptatem itaque ea consequatur eveniet. Eum quas beatae cumque eum quaerat.</p>
+          <h2>Selamat <span>Datang</span></h2>
+          <p>Potensi
           <div class="d-flex justify-content-center justify-content-lg-start">
             <a href="#about" class="btn-get-started">Get Started</a>
             <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>Watch Video</span></a>
           </div>
         </div>
         <div class="col-lg-6 order-1 order-lg-2">
-          <img src="assets/img/hero-img.svg" class="img-fluid" alt="" data-aos="zoom-out" data-aos-delay="100">
+          <img src="assets/img/pdip.png" class="img-fluid" alt="" data-aos="zoom-out" data-aos-delay="100">
         </div>
       </div>
     </div>
@@ -168,30 +155,28 @@
 
         <div class="section-header">
           <h2>About Us</h2>
-          <p>Aperiam dolorum et et wuia molestias qui eveniet numquam nihil porro incidunt dolores placeat sunt id nobis omnis tiledo stran delop</p>
+          <p>jkdsckjha</p>
         </div>
 
         <div class="row gy-4">
           <div class="col-lg-6">
-            <h3>Voluptatem dignissimos provident quasi corporis</h3>
+            <h3>contoh gambar</h3>
             <img src="assets/img/about.jpg" class="img-fluid rounded-4 mb-4" alt="">
-            <p>Ut fugiat ut sunt quia veniam. Voluptate perferendis perspiciatis quod nisi et. Placeat debitis quia recusandae odit et consequatur voluptatem. Dignissimos pariatur consectetur fugiat voluptas ea.</p>
-            <p>Temporibus nihil enim deserunt sed ea. Provident sit expedita aut cupiditate nihil vitae quo officia vel. Blanditiis eligendi possimus et in cum. Quidem eos ut sint rem veniam qui. Ut ut repellendus nobis tempore doloribus debitis explicabo similique sit. Accusantium sed ut omnis beatae neque deleniti repellendus.</p>
+            <p>monyet</p>
+            <p>Turu.</p>
           </div>
           <div class="col-lg-6">
             <div class="content ps-0 ps-lg-5">
               <p class="fst-italic">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                magna aliqua.
+                keterangan
               </p>
               <ul>
-                <li><i class="bi bi-check-circle-fill"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                <li><i class="bi bi-check-circle-fill"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                <li><i class="bi bi-check-circle-fill"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+                <li><i class="bi bi-check-circle-fill"></i> coba 1</li>
+                <li><i class="bi bi-check-circle-fill"></i> coba 2</li>
+                <li><i class="bi bi-check-circle-fill"></i> coba 3</li>
               </ul>
               <p>
-                Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident
+                penduduk desa banjarnegara susukan
               </p>
 
               <div class="position-relative mt-4">
@@ -211,7 +196,7 @@
 
         <div class="clients-slider swiper">
           <div class="swiper-wrapper align-items-center">
-            <div class="swiper-slide"><img src="assets/img/clients/client-1.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="assets/img/clients/" class="img-fluid" alt=""></div>
             <div class="swiper-slide"><img src="assets/img/clients/client-2.png" class="img-fluid" alt=""></div>
             <div class="swiper-slide"><img src="assets/img/clients/client-3.png" class="img-fluid" alt=""></div>
             <div class="swiper-slide"><img src="assets/img/clients/client-4.png" class="img-fluid" alt=""></div>

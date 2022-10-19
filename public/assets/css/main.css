@@ -317,9 +317,12 @@ section {
   max-height: 40px;
   margin-right: 6px;
 }
+.header .home :nth-child(2){
+  color: #006a5d;
 
+}
 .header .logo h1 {
-  font-size: 30px;
+  font-size: 20px;
   margin: 0;
   font-weight: 600;
   letter-spacing: 0.8px;
