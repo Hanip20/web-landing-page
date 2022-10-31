@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Gumelem Wetan</title>
+  <title>PROFIL</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -42,8 +42,8 @@
   <section id="topbar" class="topbar d-flex align-items-center">
     <div class="container d-flex justify-content-center justify-content-md-between">
       <div class="contact-info d-flex align-items-center">
-        <i class="bi bi-envelope d-flex align-items-center"><a href="mailto:contact@example.com">gumelemwetan@gmail.com</a></i>
-        <i class="bi bi-phone d-flex align-items-center ms-4"><span></span></i>
+        <i class="bi bi-envelope d-flex align-items-center"><a href="mailto:contact@example.com">contact@example.com</a></i>
+        <i class="bi bi-phone d-flex align-items-center ms-4"><span>+1 5589 55488 55</span></i>
       </div>
       <div class="social-links d-none d-md-flex align-items-center">
         <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
@@ -90,7 +90,7 @@
     <div class="container position-relative">
       <div class="row gy-5" data-aos="fade-in">
         <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center text-center text-lg-start">
-          <h2>Sugeng <span>Rawuh</span></h2>
+          <h2>PUAN <span>MAHARANI</span></h2>
           <h2 class="name-village">Website Desa Gumelem Wetan</h2>
           <div class="d-flex justify-content-center justify-content-lg-start">
             <a href="#about" class="btn-get-started">Get Started</a>
@@ -179,8 +179,8 @@
               </p>
 
               <div class="position-relative mt-4">
-                <img src="assets/img/about-2.jpg" class="img-fluid rounded-4" alt="">
-                <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox play-btn"></a>
+                <img src="assets/img/puan.jpg" class="img-fluid rounded-4" alt="">
+                <a href="https://youtu.be/4PU2R3APVUQ" class="glightbox play-btn"></a>
               </div>
             </div>
           </div>

@@ -60,14 +60,14 @@
       <a href="index.html" class="logo d-flex align-items-center">
         <!-- Uncomment the line below if you also wish to use an image logo -->
         <!-- <img src="assets/img/logo.png" alt=""> -->
-        <h1>Gumelem Wetan<span>.</span></h1>
+        <h1>AYO DUKUNG PUAN MAHARANI<span>.</span></h1>
         
 
       </a>
       <nav id="navbar" class="navbar">
         <ul>
           <li><a href="#">Beranda</a></li>
-          <li><a href="#">Profil</a></li>
+          <li><a href="Profil.php">Profil</a></li>
           <li><a href="#">Lembaga</a></li>
           <li><a href="#">Data Penduduk</a></li>
           <li><a href="#">Informasi Publik</a></li>
@@ -90,11 +90,10 @@
     <div class="container position-relative">
       <div class="row gy-5" data-aos="fade-in">
         <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center text-center text-lg-start">
-          <h2>Selamat <span>Datang</span></h2>
-          <p>Potensi
+          <h2>Sugeng <span>Rawuh</span></h2>
+          <h2 class="name-village">Website Desa Gumelem Wetan</h2>
           <div class="d-flex justify-content-center justify-content-lg-start">
             <a href="#about" class="btn-get-started">Get Started</a>
-            <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>Watch Video</span></a>
           </div>
         </div>
         <div class="col-lg-6 order-1 order-lg-2">

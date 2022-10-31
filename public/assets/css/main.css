@@ -247,8 +247,13 @@ section {
 /*--------------------------------------------------------------
 # Header
 --------------------------------------------------------------*/
+#hero h2.name-village{
+  font-size: 1.5em;
+  color: #00b6a1;
+
+}
 .topbar {
-  background: #00796b;
+  background: red;
   height: 40px;
   font-size: 14px;
   transition: all 0.5s;
@@ -317,10 +322,7 @@ section {
   max-height: 40px;
   margin-right: 6px;
 }
-.header .home :nth-child(2){
-  color: #006a5d;
 
-}
 .header .logo h1 {
   font-size: 20px;
   margin: 0;
